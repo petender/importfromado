@@ -7,3 +7,5 @@ public interface ICatalogItemViewModelService
 {
     Task UpdateCatalogItem(CatalogItemViewModel viewModel);
 }
+
+# testing updates
